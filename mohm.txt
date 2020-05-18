@@ -1,0 +1,38 @@
+#ملاحظة اذا كان هناك برنامج 
+[ Termux:API ]
+في جهاز الضحية 
+فأداتي تتيح لك صلاحيات اكثر عندما تخترقه اكتب 
+[ shell ]
+وانتر 
+وبعدها نفذ هذه الاوامر ولكل امر خاصية مميزة :
+2- termux-battery-status
+3- termux-brightness 
+4- termux-call-log
+5- termux-camera-info 
+6- termux-camera-photo
+7- termux-clipboard-get
+8- termux-download
+9- termux-infrared-frequencies
+10- termux-infrared-transmit
+11- termux-job-scheduler
+12- termux-location
+13- termux-media-player
+14- termux-media-scan
+15- termux-microphone-record
+16- termux-notification
+17- termux-notification-remove
+18- termux-share
+19- termux-sms-list
+20- termux-sms-send
+21- termux-storage-get
+22- termux-telephony-call
+23- termux-telephony-cellinfo
+24- termux-telephony-deviceinfo
+25- termux-toast termux-torch 
+26- termux-tts-engines
+27- termux-tts-speak
+28- termux-usb
+29- termux-vibrate
+30- termux-volume
+31- am start -n "التطبيق"
+32- pm install /sdcard/اسم التطبيق
